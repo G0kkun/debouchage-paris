@@ -6,34 +6,57 @@
 
   <!-- Page d'accueil -->
   <url>
-    <loc>https://debouchage-canalisations-paris.com/</loc>
-    <lastmod>2026-01-17</lastmod>
+    <loc>https://debouchage-canalisation-paris.fr/</loc>
+    <lastmod>2026-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <!-- Page Contact -->
   <url>
-    <loc>https://debouchage-canalisations-paris.com/contact.html</loc>
-    <lastmod>2026-01-17</lastmod>
+    <loc>https://debouchage-canalisation-paris.fr/contact.html</loc>
+    <lastmod>2026-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- Mentions légales -->
   <url>
-    <loc>https://debouchage-canalisations-paris.com/mentions-legales.html</loc>
-    <lastmod>2026-01-17</lastmod>
+    <loc>https://debouchage-canalisation-paris.fr/mentions-legales.html</loc>
+    <lastmod>2026-02-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
 
   <!-- Politique de confidentialité -->
   <url>
-    <loc>https://debouchage-canalisations-paris.com/politique-confidentialite.html</loc>
-    <lastmod>2026-01-17</lastmod>
+    <loc>https://debouchage-canalisation-paris.fr/politique-confidentialite.html</loc>
+    <lastmod>2026-02-04</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
+  </url>
+<!-- Page Débouchage Canalisations -->
+  <url>
+    <loc>https://debouchage-canalisation-paris.fr/debouchage-canalisations.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Page Curage Canalisations -->
+  <url>
+    <loc>https://debouchage-canalisation-paris.fr/curage-canalisations.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Page Inspection Vidéo -->
+  <url>
+    <loc>https://debouchage-canalisation-paris.fr/inspection-video-canalisations.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url>
 
 </urlset>
